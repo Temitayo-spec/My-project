@@ -84,7 +84,7 @@ ul li a:hover {
 }
 
 .next h1 {
-	font-size: 2.8em;
+	font-size: 2.45em;
 	width: 90%;
 	font-weight: 400;
 	margin: 0.4em auto;
@@ -92,14 +92,14 @@ ul li a:hover {
 }
 
 .next p {
-	font-size: 1.1em;
+	font-size: 1em;
 	font-weight: 400;
 	color: hsl(233, 8%, 62%);
 }
 
 .btn2 button {
 	margin: 1.2em auto;
-	padding: 1.1em;
+	padding: 1.5em;
 	border-radius: 34px;
 	border: none;
 	outline: none;
@@ -155,7 +155,7 @@ ul li a:hover {
 	margin: 2.5em auto;
 }
 .card h2 {
-	font-size: 20px;
+	font-size: 25px;
 	font-weight: 400;
 	margin: 0.4em auto;
 }
@@ -254,7 +254,6 @@ footer {
 
 .icons svg {
 	margin: 0.7em;
-	width: 40%;
 	cursor: pointer;
 	fill: #fff;
 }
@@ -282,8 +281,8 @@ footer {
 }
 
 .finals button {
-	margin: 1.2em auto;
-	padding: 1.1em;
+	margin: 2em auto;
+	padding: 1.5em;
 	border-radius: 34px;
 	border: none;
 	outline: none;
@@ -301,6 +300,7 @@ footer {
 .finals p {
 	font-size: 1.2em;
 	color: hsl(233, 8%, 62%);
+	margin: 1.5em auto 0;
 }
 
 @media screen and (min-width: 800px) {
